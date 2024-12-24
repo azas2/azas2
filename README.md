@@ -18,11 +18,9 @@
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Microsoft_SQL_Server_logo_2019.svg/2560px-Microsoft_SQL_Server_logo_2019.svg.png" alt="sqlserver" width="40" height="40"/> </a>
   <a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://learn.microsoft.com/en-us/sql/integration-services/" target="_blank" rel="noreferrer"> <img src="[image](https://github.com/user-attachments/assets/09ee5b61-9fde-4642-8e8a-a0956108baca)
-" alt="ssis" width="40" height="40"/> </a>
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azas2&show_icons=true&locale=en&layout=compact" alt="azas2" /></p>
